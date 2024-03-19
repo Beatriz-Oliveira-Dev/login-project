@@ -5,4 +5,5 @@
     <string name="email_or_user_name">Email or User Name</string>
     <string name="password">Password</string>
     <string name="forget_password">Forget Password?</string>
+    <string name="confirm_password">Confirm password</string>
 </resources>
